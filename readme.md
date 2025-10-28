@@ -1,4 +1,4 @@
-# Music Playlist Manager
+# Music Playlist Manager - by Group 14
 
 This project is a simple music playlist manager built with Python and tkinter. It allows users to manage playlists from a local/mock song library.
 
